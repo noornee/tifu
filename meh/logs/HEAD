@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a2d370592ab4e5f92d69f1a18fecad4e71e1fae7 noornee <noornee.011@gmail.com> 1710540235 +0100	clone: from github.com:noornee/nixdots.git
+a2d370592ab4e5f92d69f1a18fecad4e71e1fae7 beab5a44ca18f41ab08262a6a16db582a96a7304 noornee <noornee.011@gmail.com> 1711065699 +0100	commit: idk
+beab5a44ca18f41ab08262a6a16db582a96a7304 33c78fc846d00c02a6fd58b02fb557ed0bbbea62 noornee <noornee.011@gmail.com> 1712569092 +0100	commit: update..
+33c78fc846d00c02a6fd58b02fb557ed0bbbea62 886208ac26d9de47ef8adf62acef262def017a97 noornee <noornee.011@gmail.com> 1712951037 +0100	commit: chore: flake update
+886208ac26d9de47ef8adf62acef262def017a97 d66328b6dbf5d4b86b724dc71270a7b926f77e94 noornee <noornee.011@gmail.com> 1712951050 +0100	commit: chore: wubba lubba dubdub
+d66328b6dbf5d4b86b724dc71270a7b926f77e94 e1086f3b3b21cecd179f13030528529fafa95400 noornee <noornee.011@gmail.com> 1713913986 +0100	commit: chore: beep boop
+e1086f3b3b21cecd179f13030528529fafa95400 94f5a69ce2210b640deeadd3afbd767fcb53f8df noornee <noornee.011@gmail.com> 1714228737 +0100	commit: fix: 'register access failure' msg
+94f5a69ce2210b640deeadd3afbd767fcb53f8df 4e1e8f7ba0069d0962b6ddd07f086a6a65a7a771 noornee <noornee.011@gmail.com> 1714581482 +0000	commit: tifu--backup recovered files
